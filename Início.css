@@ -123,7 +123,6 @@
 
   .u-section-1 .u-layout-wrap-1 {
     position: relative;
-    min-height: 104px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -210,12 +209,6 @@
    .u-section-1 {
     background-position: 28.68% 51.52%;
     min-height: 505px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    min-height: 76px;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -431,6 +424,7 @@
   font-size: 1.25rem;
   line-height: 2;
   font-weight: 600;
+  text-transform: none;
   margin: 0;
 }
 
@@ -673,6 +667,7 @@
 .u-section-4 .u-text-2 {
   font-style: italic;
   font-size: 1.25rem;
+  text-transform: none;
   margin: -64px 0 0 98px;
 }
 
@@ -689,6 +684,7 @@
 .u-section-4 .u-text-3 {
   font-style: italic;
   font-size: 1.25rem;
+  text-transform: none;
   margin: -64px 0 0 98px;
 }
 
@@ -705,6 +701,7 @@
 .u-section-4 .u-text-4 {
   font-style: italic;
   font-size: 1.25rem;
+  text-transform: none;
   margin: -64px 0 0 98px;
 }
 
@@ -959,6 +956,7 @@
   font-size: 1.5rem;
   line-height: 2;
   font-weight: 600;
+  text-transform: none;
   margin: 0;
 }
 
@@ -1537,6 +1535,7 @@
 
 .u-section-8 .u-text-2 {
   font-style: italic;
+  background-image: none;
   margin: 20px 3px 0;
 }
 
@@ -1565,6 +1564,7 @@
 
 .u-section-8 .u-text-4 {
   font-style: italic;
+  background-image: none;
   margin: 20px 3px 0;
 }
 
@@ -1594,6 +1594,7 @@
 
 .u-section-8 .u-text-6 {
   font-style: italic;
+  background-image: none;
   margin: 20px 3px 0;
 }
 
@@ -1792,8 +1793,8 @@
 
 .u-section-9 .u-text-2 {
   background-image: none;
-  font-size: 1.5rem;
-  line-height: 1.5999999999999999;
+  font-size: 1.4375rem;
+  line-height: 1.6;
   margin: 0;
 }
 
@@ -1956,7 +1957,8 @@
 .u-section-10 .u-text-2 {
   font-size: 1.25rem;
   line-height: 2;
-  margin: 17px 20px 0 0;
+  text-transform: none;
+  margin: 17px 17px 0 3px;
 }
 
 .u-section-10 .u-social-icons-1 {
@@ -2011,6 +2013,7 @@
 
   .u-section-10 .u-text-2 {
     margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-10 .u-layout-cell-2 {

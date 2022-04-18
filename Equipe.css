@@ -6,7 +6,6 @@
   min-height: 220px;
   margin-top: 41px;
   margin-bottom: 41px;
-  height: auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -19,12 +18,6 @@
 
 .u-section-1 .u-text-2 {
   margin: 18px 0 0 10px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-group-1 {
-    height: auto;
-  }
 }
 
 @media (max-width: 991px) {
@@ -64,6 +57,7 @@
 .u-section-2 .u-image-1 {
   min-height: 236px;
   background-image: url("images/logoJPAL.png");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -73,6 +67,7 @@
 .u-section-2 .u-image-2 {
   min-height: 236px;
   background-image: url("images/BID-logo-fondo-blanco.png");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -194,7 +189,6 @@
   min-height: 192px;
   margin-top: 41px;
   margin-bottom: 30px;
-  height: auto;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -211,10 +205,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-group-1 {
-    height: auto;
-  }
-
   .u-section-3 .u-container-layout-1 {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -352,12 +342,12 @@
 }
 
 .u-section-5 .u-text-1 {
+  font-weight: 700;
   margin: 0 553px 0 37px;
 }
 
 @media (max-width: 1199px) {
   .u-section-5 .u-text-1 {
-    font-weight: 700;
     margin-right: 390px;
   }
 }
